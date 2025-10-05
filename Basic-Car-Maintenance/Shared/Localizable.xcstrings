@@ -1,9 +1,6 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "" : {
-      "shouldTranslate" : false
-    },
     "%@" : {
       "comment" : "Maintenance list item description 'Date' formatted",
       "localizations" : {
@@ -6427,6 +6424,7 @@
     },
     "Version %@ (%@)" : {
       "comment" : "Label to display version and build number.",
+      "extractionState" : "stale",
       "localizations" : {
         "be" : {
           "stringUnit" : {
